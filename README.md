@@ -1,2 +1,2 @@
-# Arknoid
+# Arkanoid
 Arkanoid
